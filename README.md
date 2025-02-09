@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML , CSS and JavaScript**
 
-- 📫 How to reach me **linktr.ee/CSmohmmadSH**
+- 📫 How to reach me **mohmmad521@hotmail.com**
 
 - ⚡ Fun fact **I Watch Esport a lot**
 
