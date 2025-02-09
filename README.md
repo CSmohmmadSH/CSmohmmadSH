@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **linktr.ee/CSmohmmadSH**
 
-- ⚡ Fun fact **I Watch Esport a lot**
+- ⚡ Fun fact **I Watch Esports a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
