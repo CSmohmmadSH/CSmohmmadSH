@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://github.com/CSmohmmadSH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="CSmohmmadSH" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohmmad-alshagag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohmmad alshagag" height="30" width="40" /></a>
-<a href="https://twitter.com/CSmohmmadSH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CSmohmmadSH" height="30" width="40" /></a>
+<a href="https://x.com/CSmohmmadSH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CSmohmmadSH" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
