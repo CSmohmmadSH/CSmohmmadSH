@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mohammed Alshaqaq
 
-### Cloud Infrastructure & Kubernetes Engineer in training | SDAIA Co-op
+### Cloud Infrastructure & Kubernetes Engineer 
 
 
 
