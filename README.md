@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I'm currently working on **Task Tracker — a production-grade cloud-native microservices platform on AWS EKS with GitOps (ArgoCD), Istio Ambient service mesh, and Prometheus/Grafana observability**
+- 🌱 I'm currently learning **DevOps concepts and AWS Cloud**
 
-- 🌱 I'm currently learning **Istio Ambient Mode, Gateway API, and advanced Kubernetes Operator patterns**
+- 🔭 I recently built **[Task Tracker](https://github.com/CSmohmmadSH/task-tracker)** — a production-grade cloud-native microservices platform on **AWS EKS** with **GitOps (ArgoCD)**, **Istio Ambient service mesh**, and **Prometheus/Grafana** observability
 
 - 👯 I'm looking to collaborate on **Open-source cloud-native and Kubernetes projects**
 
